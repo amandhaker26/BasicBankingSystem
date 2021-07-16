@@ -8,7 +8,7 @@ body
 }
 #nav-bar
 {
-	background-color:#52057b;
+	background-color:#74b5d3;
 	position: sticky;
 	top:0;
 	z-index:10;
@@ -51,7 +51,7 @@ text-align:left;
 #main
 {
 	text-align: center;
-background-color:#31326f;
+background-color:#8e2ee7;
 color:#fff;
 padding-top:5%;	
 }
@@ -69,7 +69,8 @@ padding-top:5%;
  #features
  {
      text-align: center;
-	 padding: 10% 15%; background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fbank%2Bbackground&psig=AOvVaw3phifm1E7ytJHB8Zjv1u94&ust=1626461305028000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCa4tPe5fECFQAAAAAdAAAAABAD');
+	 padding: 10% 15%;
+	background-color:#31326f;
 	
  }
  .features1 h3
@@ -139,9 +140,3 @@ padding-top:5%;
 }
 
 
-#footer{
-	background-color:#31326f;
-    color:#fff;
-    padding: 4% 25%;
-    text-align: center;
-}
